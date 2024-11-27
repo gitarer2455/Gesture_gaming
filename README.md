@@ -18,6 +18,7 @@ This project uses the following libraries:
 ## Installation
 
 To run the project, install the required dependencies:
-
+after runnning the project use sample game to test it https://poki.com/en/g/subway-surfers
+try subway surfures by jumping to the train (love to try cool stuffs)
 ```bash
 pip install -r requirements.txt
